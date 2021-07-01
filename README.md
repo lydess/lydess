@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lydess
-- 👀 I’m interested in Application development
-- 🌱 I’m currently learning C# and IOS
+- 👀 I’m interested in Application development and Application deployment / administration.
+- 🌱 I’m currently learning Salesforce apex, Swift and IOS
 - 📫 How to reach me lydesscontact@gmail.com
 
 <!---
