@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lydess
 - 👀 I’m interested in Application development and Application deployment / administration.
-- 🌱 I’m currently learning Salesforce apex, Swift and IOS
+- 🌱 My current project is researching IOS integration with webassembaly, spesificly compiling a JS framework to webassembaly and presenting via a native IOS app for a greater           consistancy between platforms
 - 📫 How to reach me lydesscontact@gmail.com
 
 <!---
